@@ -25,6 +25,3 @@ jobs:
  run: npm test -- --watch=false
  - name: Construir Angular
  run: npm run build
-git add .github/workflows/ci.yml
-git commit -m "ci: agrega validación automática de Angular"
-git push
