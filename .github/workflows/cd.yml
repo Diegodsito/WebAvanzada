@@ -47,6 +47,3 @@ jobs:
  with:
  name: frontend-staging
  path: staging/
-git add .
-git commit -m "cd: agrega entrega básica a staging con Terraform"
-git push
