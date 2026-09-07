@@ -1,4 +1,7 @@
-﻿# WebAvanzada
+NOTA: Tuve unos errores al pasar los comandos de git en los CI/CD lo cual no me percate hasta el final que no me funcionaba nada, lo logre corregir al final
+ 
+ 
+ # WebAvanzada
 
 Pregunta 1 (2 pts). ¿Por qué no se recomienda desarrollar directamente sobre main en este laboratorio?
 
